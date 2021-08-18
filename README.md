@@ -2,4 +2,4 @@
 - 👀 I’m interested in software and web development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on software development and web development
--     I'm looking to get internships or jobs as front-end web developer
+-  :pray:  I'm looking to get internships or jobs as front-end web developer
