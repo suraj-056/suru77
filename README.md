@@ -25,4 +25,10 @@
 <br>
 
 ## States
-[![Suru's github stats](https://github-readme-stats.vercel.app/api?username=suru77&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img width="45.5%" src="https://github-readme-stats.vercel.app/api?username=suru77&theme=algolia&show_icons=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suru77&layout=compact&theme=algolia" />
+</p>
+
+![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=suru77&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
