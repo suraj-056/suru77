@@ -1,5 +1,10 @@
-## About me
+<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Suraj</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=15c534&width=380&height=45&lines=Welcome+To+My+Profile+🤗;;Nice+To+Meet+You+🤝&center=true"></a>
+</p>  
+
+## About me
 
 - 👋 Hi, I’m @suru77(suraj)
 - 👀 I’m interested in software and web development
