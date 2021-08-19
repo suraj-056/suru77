@@ -36,4 +36,4 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suru77&layout=compact&theme=algolia" />
 </p>
 
-![Amisha's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=suru77&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
+![Suru's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=suru77&bg_color=000033&color=FFFFFF&line=6498b0&point=FFFFFF&theme=rogue&hide_border=true&area=true)
