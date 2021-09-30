@@ -15,6 +15,10 @@
 -  :pray:  I'm looking to get internships or jobs as front-end web developer
 ## Connect with me
 
+
+
+[<img align="left" alt="Email" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.gmail.com/surajkumarlap70@gmail.com)
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-kumar-a084a9206/)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16698725/suraj)
