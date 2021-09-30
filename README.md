@@ -35,7 +35,7 @@
 <br>
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/{suru77}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/suru77/count.svg)
 
 ## States
 
