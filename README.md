@@ -16,8 +16,7 @@
 ## Connect with me
 
 
- <a [<img align="left" alt="email"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />]
- href="mailto:surajkumarlap70@gmail.com"></a>
+ <a href="mailto:surajkumarlap70@gmail.com"> [<img align="left" alt="email"  src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />]</a>
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/suraj-kumar-a084a9206/)
 
